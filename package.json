@@ -1,5 +1,5 @@
 {
-  "name": "excel-course.local",
+  "name": "excel-course",
   "version": "1.0.0",
   "description": "Pure JavaScript Excel Application",
   "main": "webpack.config.js",
